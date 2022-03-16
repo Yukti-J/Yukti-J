@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She
 - ⚡ Fun fact: I am very moody
 
-![![external-linkedin-social-media-justicon-flat-justicon](https://user-images.githubusercontent.com/97127815/158577809-ce6ee1ae-ed8f-424a-83c9-91f41a4c62d6.png)
-]
+![external-linkedin-social-media-justicon-flat-justicon](www.linkedin.com/in/yukti-jhawar-2002)
+
