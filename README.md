@@ -15,9 +15,9 @@
 
 ## `Here is something more about me 🔍`
 
-##### - 🏫 I’m currently studying in Bhilai Institute of Technology, Durg.
-##### - 🤓 A novice GitHub user. And an explorer who loves to learn new things 👩🏻‍💻 
-##### - 👩🏻‍🏫 Front-end is my forte, and I am seeking for hands-on experience.
+##### -🏫 I’m currently studying in Bhilai Institute of Technology, Durg.
+##### -🤓 A novice GitHub user. And an explorer who loves to learn new things 👩🏻‍💻 
+##### -👩🏻‍🏫 Front-end is my forte, and I am seeking for hands-on experience.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yukti-J&theme=radical)
 
