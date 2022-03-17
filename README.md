@@ -4,7 +4,7 @@
 ![1618212692698](https://user-images.githubusercontent.com/97127815/158718742-fce7c3c4-3b39-4980-a84c-552e973462a5.jpg)
 
 
-## `Skills 👩`
+## `Skills 🖥️`
 <p><img src="https://user-images.githubusercontent.com/97127815/158718870-dfcf9f30-badb-4b60-89dc-197b781c431e.png" heigth=50 width=50>
 <img src="https://user-images.githubusercontent.com/97127815/158718892-2062c81c-88b8-46de-a264-54ca9f346ed1.png" heigth=50 width=50>
 <img src="https://user-images.githubusercontent.com/97127815/158718913-e373b191-e2b9-448b-8bdf-49d51695baf0.png" heigth=50 width=50>
@@ -16,7 +16,7 @@
 ## `Here is something more about me 🔍`
 
 - ##### 🏫 I’m currently studying in Bhilai Institute of Technology, Durg.
-- ##### 🤓 A novice GitHub user. And an explorer who loves to learn new things 👩🏻‍💻 
+- ##### 🤓 A novice GitHub user. And an explorer who loves to learn new things 👩🏻‍💻.  
 - ##### 👩🏻‍🏫 Front-end is my forte, and I am seeking for hands-on experience.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yukti-J&theme=radical)
