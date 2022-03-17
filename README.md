@@ -18,6 +18,8 @@
 - 🏫 I’m currently studying in Bhilai Institute of Technology, Durg.
 - 🤓 A novice GitHub user. And an explorer who loves to learn new things 👩🏻‍💻 
 
+![GitHub Stats](https://github-readme-stats.vercel.apiusername=Yukti-J&theme=radical)
+
 ## `Let's connect 🔗`
 
 [![icons8-linkedin-48](https://user-images.githubusercontent.com/97127815/158718966-fcd7385b-ecb4-4335-aaa7-fe52a5cbf5fa.png)](www.linkedin.com/in/yukti-jhawar-2002)[![icons8-instagram-48](https://user-images.githubusercontent.com/97127815/158719694-bd2b5c12-17fd-4b91-86fa-b2d7151caed1.png)](https://www.instagram.com/yukti_3004/) [![icons8-twitter-48](https://user-images.githubusercontent.com/97127815/158719760-82009319-6db6-4f53-9869-9abf44fbe918.png)](https://twitter.com/JhawarYukti)
