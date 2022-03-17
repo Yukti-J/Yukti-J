@@ -4,8 +4,7 @@
 ![1618212692698](https://user-images.githubusercontent.com/97127815/158718742-fce7c3c4-3b39-4980-a84c-552e973462a5.jpg)
 
 
-##### _And, this is what I have learnt_
-##`Skills`
+## `Skills`
 ![icons8-html-5-48](https://user-images.githubusercontent.com/97127815/158718870-dfcf9f30-badb-4b60-89dc-197b781c431e.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/97127815/158718892-2062c81c-88b8-46de-a264-54ca9f346ed1.png)
 ![icons8-javascript-48 (1)](https://user-images.githubusercontent.com/97127815/158718913-e373b191-e2b9-448b-8bdf-49d51695baf0.png)
