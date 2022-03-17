@@ -5,11 +5,11 @@
 
 
 ## `My skills`
-<img src="https://user-images.githubusercontent.com/97127815/158718870-dfcf9f30-badb-4b60-89dc-197b781c431e.png" heigth=50 width=50>
+<p><img src="https://user-images.githubusercontent.com/97127815/158718870-dfcf9f30-badb-4b60-89dc-197b781c431e.png" heigth=50 width=50>
 <img src="https://user-images.githubusercontent.com/97127815/158718892-2062c81c-88b8-46de-a264-54ca9f346ed1.png" heigth=50 width=50>
 <img src="https://user-images.githubusercontent.com/97127815/158718913-e373b191-e2b9-448b-8bdf-49d51695baf0.png" heigth=50 width=50>
-<img src="https://user-images.githubusercontent.com/97127815/158718933-9e73dacc-8362-4e59-bd01-6a1a36658ad1.png" heigth=50 width=50>
-<img src="https://user-images.githubusercontent.com/97127815/158721940-b94a9ba5-fc69-4cb8-ba11-04fff0edb3b7.png" heigth=50 width=50>
+<img src="https://user-images.githubusercontent.com/97127815/158718933-9e73dacc-8362-4e59-bd01-6a1a36658ad1.png" heigth=70 width=70>
+<img src="https://user-images.githubusercontent.com/97127815/158721940-b94a9ba5-fc69-4cb8-ba11-04fff0edb3b7.png" heigth=50 width=50></p>
 
 
 
