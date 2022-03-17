@@ -1,6 +1,6 @@
 ### Hola Folks 👋
 
-##### _That's one of my ethics_!
+#### _That's one of my ethics_!
 ![1618212692698](https://user-images.githubusercontent.com/97127815/158718742-fce7c3c4-3b39-4980-a84c-552e973462a5.jpg)
 
 
@@ -15,8 +15,8 @@
 
 ## `Here is something more about me 🔍`
 
-- 🏫 I’m currently studying in Bhilai Institute of Technology, Durg.
-- 🤓 A novice GitHub user. And an explorer who loves to learn new things 👩🏻‍💻 
+##### - 🏫 I’m currently studying in Bhilai Institute of Technology, Durg.
+##### - 🤓 A novice GitHub user. And an explorer who loves to learn new things 👩🏻‍💻 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yukti-J&theme=radical)
 
