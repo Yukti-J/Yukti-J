@@ -18,7 +18,7 @@
 - 🏫 I’m currently studying in Bhilai Institute of Technology, Durg.
 - 🤓 A novice GitHub user. And an explorer who loves to learn new things 👩🏻‍💻 
 
-![GitHub Stats](https://github-readme-stats.vercel.apiusername=Yukti-J&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yukti-J&theme=radical)
 
 ## `Let's connect 🔗`
 
