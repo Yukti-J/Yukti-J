@@ -1,18 +1,19 @@
-### Hi there 👋
+### Hola Folks 👋
 
+_This is what I belive_
+![image](file:///C:/Users/yukti/OneDrive/Pictures/1618212692698.jpg)
 
-**Yukti-J/Yukti-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_And, this is what I have learnt_
+`Skills`
+![html](file:///C:/Users/yukti/Downloads/icons8-html-5-48.png) ![css](file:///C:/Users/yukti/Downloads/icons8-css3-48.png) ![js](file:///C:/Users/yukti/Downloads/icons8-javascript-48%20(1).png) ![node](file:///C:/Users/yukti/Downloads/4547668-middle-removebg-preview%20(1).png) ![php](file:///C:/Users/yukti/Downloads/icons8-php-logo-64.png)
 
-Here are some ideas to get you started:
+`Here is something more about me 🔍`
 
-- 🔭 I’m currently studying in BITD
-- 🌱 I’m currently learning GitHub
-- 👯 I’m looking to collaborate on pta n
-- 🤔 I’m looking for help with AI-ML
-- 💬 Ask me anything. (I won't answer you)
-- 📫 How to reach me: 
-- 😄 Pronouns: She
-- ⚡ Fun fact: I am very moody
+- 🏫 I’m currently studying in Bhilai Institute of Technology, Durg.
+- 🤓 A novice GitHub user. And an explorer who loves to learn new things 👩🏻‍💻 
 
-![external-linkedin-social-media-justicon-flat-justicon](www.linkedin.com/in/yukti-jhawar-2002)
+`Let's connect 🔗`
 
+[Linkedin]![link](file:///C:/Users/yukti/Downloads/icons8-linkedin-48.png)(www.linkedin.com/in/yukti-jhawar-2002)   
+[Instagram]![insta](file:///C:/Users/yukti/Downloads/icons8-instagram-48.png)(https://www.instagram.com/yukti_3004/)
+[Twitter]![twitter](file:///C:/Users/yukti/Downloads/icons8-twitter-48.png)(https://twitter.com/JhawarYukti)
